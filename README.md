@@ -6,4 +6,3 @@ I'm a curious Software Engineer working with JavaScript daily for around 2 years
 
 - 👩‍🚀 Functional Programming is awesome! I've been studying [ReasonML](https://github.com/guilhermedeandrade/ES2077) and [Elixir](https://github.com/guilhermedeandrade/elixir-school) lately
 - ⌨️ I have a strange hobby, which is [custom mechanical keyboards](https://www.reddit.com/r/CustomKeyboards)
-- 🐈 I'm trying to decide how to call the cat I'm going to adopt. Suggestions?
