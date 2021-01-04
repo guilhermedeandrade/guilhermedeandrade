@@ -2,7 +2,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/guilhermedeandrade/guilhermedeandrade/master/assets/illustration.svg" width="200"/>
 
-I'm a curious Software Engineer working with JavaScript daily for around 2 years. Most of this time was dedicated to front-end development, React and its ecosystem. However, I've also worked with Node.js and Ruby on Rails applications.
+I'm a curious Software Engineer working with Ruby/RoR on a daily basis and with Elixir/Phoenix sometimes. Most of my career was dedicated to front-end development, React and its ecosystem. However, I'm focusing on developing my back-end skills at the moment. Some things about me:
 
-- 👩‍🚀 Functional Programming is awesome! I've been studying [ReasonML](https://github.com/guilhermedeandrade/ES2077) and [Elixir](https://github.com/guilhermedeandrade/elixir-school) lately
-- ⌨️ I have a strange hobby, which is [custom mechanical keyboards](https://www.reddit.com/r/CustomKeyboards)
+- 👩‍🚀 Functional Programming is awesome! I've been studying Elixir and Phoenix lately.
+- 🎨 I want to try TailwindCSS for real someday. The markup and the styles being mixed together is an interesting idea. I also love its versatility, since you can use it regardless of the stack you are working with.
+- 🏡 I lived in more places than I can count with my fingers.
+- ⌨️ I have a strange hobby, which is [custom mechanical keyboards](https://www.reddit.com/r/CustomKeyboards).
